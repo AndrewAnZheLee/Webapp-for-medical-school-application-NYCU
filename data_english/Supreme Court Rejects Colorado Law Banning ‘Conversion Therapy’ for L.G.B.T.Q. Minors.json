@@ -1,0 +1,20 @@
+{
+    "background": "The Supreme Court recently declined to hear a case challenging a Colorado law that prohibits licensed therapists from engaging in “conversion therapy” with minors. This practice, also known as reparative therapy, aims to change an individual’s sexual orientation or gender identity. Colorado is one of over twenty states that have enacted similar restrictions, arguing that such therapies are harmful and lack scientific validity. Proponents of these laws emphasize the potential for psychological damage, including increased rates of depression, anxiety, and suicide among LGBTQ+ youth subjected to these interventions. Conversely, those opposing the bans argue that they infringe upon the rights of both therapists to practice and clients to seek treatment, citing religious or moral objections. The core of the legal debate revolves around the balance between protecting vulnerable minors from potentially harmful practices and upholding principles of therapeutic autonomy and freedom of choice. The Supreme Court’s decision to not hear the case effectively upholds the Colorado law, allowing the state’s ban on conversion therapy for minors to remain in effect. This decision has significant implications for the ongoing legal battles surrounding this controversial practice across the United States.",
+    "question": "Considering the ethical principles of beneficence, non-maleficence, and patient autonomy, how would you navigate a situation where a parent requests conversion therapy for their child, despite scientific consensus demonstrating its ineffectiveness and potential harm? Discuss the complexities involved and how you would prioritize the well-being of the minor while respecting parental rights and cultural beliefs.",
+    "vocabulary": [
+        {
+            "word": "Reparative therapy",
+            "translation": "修復治療 (指轉換性傾向或性別認同的治療)"
+        },
+        {
+            "word": "Autonomy",
+            "translation": "自主權 (指患者決定自身醫療的權利)"
+        },
+        {
+            "word": "Vulnerable",
+            "translation": "脆弱的 (指容易受到傷害或剝削的)"
+        }
+    ],
+    "title": "Supreme Court Rejects Colorado Law Banning ‘Conversion Therapy’ for L.G.B.T.Q. Minors",
+    "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html"
+}

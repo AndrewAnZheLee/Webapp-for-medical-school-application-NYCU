@@ -1,0 +1,20 @@
+{
+    "background": "The United States Department of Health and Human Services (H.H.S.) is considering reinstating its vaccine advisory committee after a recent legal challenge cast doubt on its authority and invalidated its recent recommendations. Last month, a federal judge raised concerns regarding the panel’s legitimacy, ultimately overturning its previous work. The current situation is complicated by the potential influence of Robert F. Kennedy Jr., a prominent figure known for his vocal opposition to vaccines, who may shape the committee’s future composition and direction. This development raises significant questions about the integrity of the vaccine advisory process, public trust in vaccination programs, and the balance between scientific expertise and political considerations in public health policy. The notice of potential revival suggests the committee could be reformed under conditions favorable to Kennedy Jr.'s viewpoints, potentially altering the basis for vaccine recommendations and impacting national immunization strategies.",
+    "question": "Imagine you are a member of this vaccine advisory committee. Knowing that the committee’s legitimacy has been questioned and that its potential reformation may be influenced by someone with publicly stated anti-vaccine views, how would you approach your role to ensure that recommendations are based on sound scientific evidence and maintain public trust? What ethical considerations would be paramount in this situation?",
+    "vocabulary": [
+        {
+            "word": "legitimacy",
+            "translation": "合法性"
+        },
+        {
+            "word": "invalidate",
+            "translation": "使無效"
+        },
+        {
+            "word": "immunization",
+            "translation": "免疫接種"
+        }
+    ],
+    "title": "H.H.S. Takes a First Step Toward Restoring Vaccine Advisory Committee",
+    "link": "https://www.nytimes.com/2026/04/03/health/kennedy-vaccine-advisers-acip.html"
+}

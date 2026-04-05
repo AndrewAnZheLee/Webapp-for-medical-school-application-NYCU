@@ -1,0 +1,20 @@
+{
+    "background": "The pursuit of scientific knowledge is a cornerstone of medical advancement, yet the process is fraught with challenges. Initial research findings, often hailed as breakthroughs, frequently struggle during the crucial stage of replication – the attempt to independently verify the original results. This replication crisis casts doubt on the reliability of published studies and hinders progress in the field. A recent, large-scale study investigated the potential of artificial intelligence (AI) to predict which studies are unlikely to be successfully replicated. The hope was that AI could analyze various factors, such as study design, statistical methods, and data analysis techniques, to identify potential weaknesses before significant resources are invested. However, the study’s findings were disappointing. Researchers concluded that current AI technology is not yet sophisticated enough to accurately predict non-replicable research. This highlights the inherent complexities of scientific validation and underscores the continued need for rigorous methodology, transparent reporting, and independent verification in medical research. The difficulty in confirming research results poses a significant obstacle to evidence-based medicine and the development of effective healthcare interventions.",
+    "question": "Imagine you are a principal investigator leading a research team. Knowing that AI currently cannot reliably predict study replicability, how would you proactively address the potential for your research findings to be challenged or not replicated by others? Discuss the ethical considerations involved in ensuring the robustness and transparency of your research, and how you would balance the pressure to publish with the need for verifiable results.",
+    "vocabulary": [
+        {
+            "word": "Replication",
+            "translation": "複製 (研究結果的驗證)"
+        },
+        {
+            "word": "Robustness",
+            "translation": "穩健性 (研究結果的可靠性)"
+        },
+        {
+            "word": "Intervention",
+            "translation": "介入 (醫療干預措施)"
+        }
+    ],
+    "title": "Can Science Predict When a Study Won’t Hold Up?",
+    "link": "https://www.nytimes.com/2026/04/01/science/ai-experiments-replication.html"
+}

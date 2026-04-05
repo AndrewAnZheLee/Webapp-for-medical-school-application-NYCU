@@ -1,0 +1,20 @@
+{
+    "background": "The Food and Drug Administration (FDA) is anticipated to revise its regulations concerning peptides, a move that aligns with advocacy efforts led by Robert F. Kennedy Jr. Peptides, short chains of amino acids, are gaining popularity, frequently promoted with claims of enhancing longevity and overall health. Previously, in 2023, the FDA had restricted the sale of these peptides through compounding pharmacies, categorizing them as products requiring stricter oversight. Compounding pharmacies create customized medications by combining, mixing, or altering ingredients. The FDA’s initial restriction stemmed from concerns regarding the unregulated marketing and potential safety risks associated with these increasingly prevalent substances. The expected lifting of this restriction raises questions about the balance between patient access to potentially beneficial treatments and the need for rigorous quality control and safety assessments. The decision is likely to fuel further growth in the peptide market, but also necessitates careful consideration of the long-term implications for public health and pharmaceutical regulation.",
+    "question": "The FDA's potential decision to lift restrictions on peptides, despite previous safety concerns, presents a complex ethical dilemma. Considering the increasing direct-to-consumer marketing of peptides with claims of longevity and health benefits, how would you, as a future physician, approach a patient who requests a peptide treatment not supported by robust scientific evidence, and what factors would influence your decision-making process? Discuss the potential benefits and harms, and your responsibility to both patient autonomy and public safety.",
+    "vocabulary": [
+        {
+            "word": "peptides",
+            "translation": "胜肽"
+        },
+        {
+            "word": "compounding pharmacies",
+            "translation": "調劑藥房"
+        },
+        {
+            "word": "oversight",
+            "translation": "監督；監管"
+        }
+    ],
+    "title": "FDA Is Expected to Lift Restriction on Peptides, Heeding RFK Jr.’s Wishes",
+    "link": "https://www.nytimes.com/2026/03/31/health/peptide-ban-fda-rfk-jr.html"
+}

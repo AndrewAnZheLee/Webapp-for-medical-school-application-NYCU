@@ -1,0 +1,20 @@
+{
+    "background": "A California-based dairy farm, Raw Farm, has issued a voluntary recall of its cheddar cheese following reports of nine confirmed cases of E. coli infection across three states. The Centers for Disease Control and Prevention (CDC) is investigating the outbreak, and preliminary findings suggest a link to the consumption of Raw Farm’s raw cheddar cheese. Raw milk and raw milk products, unlike pasteurized alternatives, have not undergone a heat treatment process designed to kill harmful bacteria. This recall is particularly noteworthy as Raw Farm is actively contesting the connection between its products and the illness, maintaining its belief that its dairy practices do not contribute to the outbreak. The CDC continues to advise consumers to avoid consuming any Raw Farm cheddar cheese and to practice thorough food safety measures. This situation highlights the ongoing debate surrounding the safety and regulation of raw dairy products, balancing consumer choice with public health concerns.",
+    "question": "This case presents a conflict between a company’s assertion of safe practices and public health officials identifying a potential source of an outbreak. As a future physician, how would you approach communicating risk to patients regarding the consumption of raw dairy products, considering the potential for bacterial contamination and the consumer’s right to choose? Discuss the ethical considerations involved in balancing individual autonomy with the responsibility to protect public health.",
+    "vocabulary": [
+        {
+            "word": "Pasteurization",
+            "translation": "巴氏殺菌"
+        },
+        {
+            "word": "Outbreak",
+            "translation": "爆發 (疫情)"
+        },
+        {
+            "word": "Contamination",
+            "translation": "污染"
+        }
+    ],
+    "title": "‘Under Protest,’ Raw Dairy Farm Recalls Cheddar Linked to 9 E. Coli Cases",
+    "link": "https://www.nytimes.com/2026/04/03/business/fda-raw-farm-cheese-recall-e-coli.html"
+}

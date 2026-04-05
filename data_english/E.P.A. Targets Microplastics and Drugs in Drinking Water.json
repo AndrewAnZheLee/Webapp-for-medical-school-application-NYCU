@@ -1,0 +1,20 @@
+{
+    "background": "The Environmental Protection Agency (EPA) has recently announced new initiatives to address the growing concern of microplastics and pharmaceutical contaminants found in drinking water supplies across the United States. This decision comes after sustained pressure from various advocacy groups, notably the 'Make America Healthy Again' movement, which had publicly voiced criticism regarding the EPA’s previous approaches to managing toxic chemical exposure. Microplastics, originating from the breakdown of larger plastic items, are ubiquitous in the environment and their potential health effects are still under investigation, but concerns range from physical harm to cellular disruption. Similarly, trace amounts of pharmaceuticals – including antibiotics, hormones, and antidepressants – are increasingly detected in water sources, largely due to excretion from human and animal waste and improper disposal of medications. The EPA’s plan involves increased monitoring, research into effective filtration technologies, and potential regulatory standards for these contaminants. While lauded by some as a necessary step towards public health protection, others question the feasibility and cost-effectiveness of widespread implementation, as well as the potential economic impact on industries reliant on plastic production and pharmaceutical manufacturing. The long-term consequences of chronic exposure to these substances remain a significant area of scientific inquiry.",
+    "question": "Considering the EPA's new focus on microplastics and pharmaceutical contaminants in drinking water, and acknowledging the potential economic and logistical challenges of remediation, how would you, as a future physician, approach counseling a patient who expresses anxiety about the potential health risks associated with these exposures? Discuss the ethical considerations involved in balancing scientific uncertainty with patient concerns, and how you would communicate risk effectively.",
+    "vocabulary": [
+        {
+            "word": "Ubiquitous",
+            "translation": "普遍存在的"
+        },
+        {
+            "word": "Contaminants",
+            "translation": "污染物"
+        },
+        {
+            "word": "Remediation",
+            "translation": "補救; 改善"
+        }
+    ],
+    "title": "E.P.A. Targets Microplastics and Drugs in Drinking Water",
+    "link": "https://www.nytimes.com/2026/04/02/climate/microplastics-maha-epa.html"
+}

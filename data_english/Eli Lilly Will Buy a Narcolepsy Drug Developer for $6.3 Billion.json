@@ -1,0 +1,20 @@
+{
+    "background": "Pharmaceutical giant Eli Lilly announced its intention to acquire Centessa Pharmaceuticals for a substantial $6.3 billion. This acquisition is primarily driven by Centessa's promising pipeline, particularly its lead drug currently undergoing a mid-stage clinical trial. The drug is being developed to treat narcolepsy, a chronic neurological disorder that affects the brain's ability to control sleep-wake cycles. While the specific mechanism of action of Centessa’s drug remains undisclosed in this initial announcement, the acquisition signals Eli Lilly’s strategic investment in addressing neurological disorders and expanding its pharmaceutical portfolio. This move is also indicative of the broader trend of large pharmaceutical companies acquiring smaller biotech firms with innovative drug candidates to accelerate their research and development efforts. The completion of the acquisition is subject to customary closing conditions, including regulatory approvals. This deal highlights the significant financial investment required to bring novel therapies to market, and the competitive landscape within the pharmaceutical industry.",
+    "question": "Considering Eli Lilly's acquisition of Centessa Pharmaceuticals, and the focus on a drug for narcolepsy, discuss the ethical implications of a large pharmaceutical company acquiring a smaller biotech firm with a potentially life-changing drug. Specifically, how might this acquisition impact patient access to the drug, the direction of future research, and the overall cost of treatment? What responsibilities does Eli Lilly have to ensure equitable access and continued innovation?",
+    "vocabulary": [
+        {
+            "word": "acquisition",
+            "translation": "收購"
+        },
+        {
+            "word": "pipeline",
+            "translation": "藥物管線 (指研發中的藥物組合)"
+        },
+        {
+            "word": "neurological",
+            "translation": "神經學的"
+        }
+    ],
+    "title": "Eli Lilly Will Buy a Narcolepsy Drug Developer for $6.3 Billion",
+    "link": "https://www.nytimes.com/2026/03/31/business/eli-lilly-narcolepsy-centessa.html"
+}

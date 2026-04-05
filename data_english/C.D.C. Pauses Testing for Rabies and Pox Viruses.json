@@ -1,0 +1,20 @@
+{
+    "background": "The Centers for Disease Control and Prevention (CDC) has recently suspended testing for rabies and pox viruses, removing these diseases from the routine testing menu offered to state and local health departments. This decision stems from significant staffing reductions within the agency, leading to a prioritization of testing services. While the CDC maintains it can still respond to outbreaks, experts express concern that the cessation of routine testing could hinder early detection and monitoring of these potentially serious diseases. Rabies, a fatal viral disease transmitted through animal bites, and pox viruses, including variola (the cause of smallpox) and monkeypox, require timely diagnosis for effective intervention. The worry is that without consistent surveillance through readily available testing, the re-emergence or spread of these viruses could go unnoticed for longer, potentially leading to larger outbreaks and increased public health risks. The long-term implications of this pause are uncertain, with fears that resuming testing capabilities may prove difficult given the current resource constraints. This situation highlights the delicate balance between budgetary limitations and maintaining robust public health infrastructure.",
+    "question": "Imagine you are a newly appointed state health officer. Given the CDC's decision to pause rabies and pox virus testing, how would you proactively address potential gaps in surveillance and diagnostic capabilities within your state, considering limited resources and the potential for public anxiety? Discuss the ethical considerations involved in balancing public safety with budgetary constraints.",
+    "vocabulary": [
+        {
+            "word": "surveillance",
+            "translation": "監測"
+        },
+        {
+            "word": "cessation",
+            "translation": "停止"
+        },
+        {
+            "word": "intervention",
+            "translation": "介入/干預"
+        }
+    ],
+    "title": "C.D.C. Pauses Testing for Rabies and Pox Viruses",
+    "link": "https://www.nytimes.com/2026/04/01/health/cdc-rabies-mpox-tests-paused.html"
+}

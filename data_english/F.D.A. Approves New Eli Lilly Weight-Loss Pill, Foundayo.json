@@ -1,0 +1,20 @@
+{
+    "background": "The Food and Drug Administration (FDA) recently approved Foundayo, a new weight-loss pill developed by Eli Lilly. This medication represents a significant development in the treatment of obesity, offering a potentially more accessible and convenient alternative to existing therapies. Currently, many highly effective weight-loss medications require regular injections, which can be a barrier for some patients due to factors like needle phobia, logistical challenges, or simply personal preference. Foundayo is an oral medication, meaning it is taken by mouth, potentially increasing patient adherence and expanding treatment options. While clinical trial data demonstrated promising results in weight reduction, the long-term effects and potential side effects are still under investigation. The approval highlights the ongoing efforts to address the growing global obesity epidemic and provide diverse treatment strategies tailored to individual patient needs. The availability of an oral weight-loss medication could significantly impact how physicians approach obesity management and how patients engage with their treatment plans.",
+    "question": "The approval of Foundayo offers a more convenient administration route for weight-loss medication. However, increased convenience could potentially lead to increased demand and wider, potentially inappropriate, use. Discuss the ethical considerations a physician should weigh when considering prescribing Foundayo, particularly regarding patient selection and the potential for off-label use. How would you address a patient who requests this medication despite not meeting the established clinical criteria?",
+    "vocabulary": [
+        {
+            "word": "Adherence",
+            "translation": "依從性 (指病人遵從醫囑的程度)"
+        },
+        {
+            "word": "Obesity Epidemic",
+            "translation": "肥胖流行病"
+        },
+        {
+            "word": "Off-label Use",
+            "translation": "標外使用 (指藥物用於未經批准的用途)"
+        }
+    ],
+    "title": "F.D.A. Approves New Eli Lilly Weight-Loss Pill, Foundayo",
+    "link": "https://www.nytimes.com/2026/04/01/well/fda-obesity-pill-orfoglipron.html"
+}

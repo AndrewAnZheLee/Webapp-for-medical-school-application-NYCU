@@ -1,0 +1,20 @@
+{
+    "background": "The role of government in regulating food safety and public health is a complex and often contentious issue. Recently, the health secretary, Samantha Kennedy, publicly stated a victory regarding new food ingredient regulations. However, this claim was made during a podcast appearance and has been proven inaccurate. A federal proposal aiming to review *all* new food ingredients before they are introduced to the market is currently in its initial phases. This proposal, intended to enhance consumer safety and potentially prevent adverse health outcomes, is facing significant resistance from food industry companies. These companies argue that the proposed regulations are overly burdensome, will stifle innovation, and ultimately increase food costs for consumers. The core of the debate revolves around balancing public health concerns with economic interests and the potential impact on the food supply chain. The proposal’s success hinges on navigating these competing priorities and establishing a transparent and scientifically sound regulatory framework. The situation highlights the challenges of implementing preventative healthcare measures when faced with powerful lobbying efforts and differing interpretations of scientific evidence.",
+    "question": "Imagine you are advising the health secretary. Considering the potential benefits of the proposed food ingredient review process – preventing future health crises – and the strong opposition from food companies citing economic concerns, how would you advise her to proceed? Specifically, address the ethical considerations of prioritizing public health over potential economic disruption, and how you would justify your recommendation to both the public and the industry stakeholders. What data or evidence would be crucial in supporting your advice?",
+    "vocabulary": [
+        {
+            "word": "adverse",
+            "translation": "不利的，有害的"
+        },
+        {
+            "word": "stifle",
+            "translation": "扼殺，抑制"
+        },
+        {
+            "word": "lobbying",
+            "translation": "遊說，政治遊說"
+        }
+    ],
+    "title": "As Kennedy Takes on Food Policy, Companies Push Back",
+    "link": "https://www.nytimes.com/2026/03/27/health/rfk-food-ingredients-fda.html"
+}

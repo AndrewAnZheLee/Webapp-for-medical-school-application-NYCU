@@ -1,0 +1,20 @@
+{
+    "background": "The rapid advancement of artificial intelligence (AI) is increasingly impacting various sectors, including business and, potentially, healthcare. A recent example highlights the success of a company founded by two brothers who leveraged AI to automate numerous corporate functions, achieving a valuation of $1.8 billion with a remarkably small workforce. This approach demonstrates the potential for significant efficiency gains through AI implementation. However, it also raises questions about the human element in business and the potential for isolation or a diminished sense of community within organizations. The story prompts consideration of whether maximizing efficiency should be the sole driver of innovation, or if the social and emotional well-being of employees should also be prioritized. While the article focuses on a business context, the principles of automation and the trade-offs between efficiency and human connection are directly relevant to the future of medicine, where AI is poised to play an increasingly prominent role in diagnostics, treatment planning, and even patient care.",
+    "question": "Considering the increasing role of AI in healthcare, and drawing parallels from this business example, what ethical considerations must medical professionals and institutions address when implementing AI-driven tools, particularly regarding the potential impact on the patient-physician relationship and the human aspects of care? How do you balance the benefits of increased efficiency and accuracy with the need for empathy, compassion, and personalized attention in medical practice?",
+    "vocabulary": [
+        {
+            "word": "Leverage",
+            "translation": "利用，運用 (to use something to maximum advantage)"
+        },
+        {
+            "word": "Automation",
+            "translation": "自動化 (the use of technology to perform tasks with minimal human assistance)"
+        },
+        {
+            "word": "Valuation",
+            "translation": "估值 (the process of determining the economic worth of an asset or company)"
+        }
+    ],
+    "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+    "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html"
+}

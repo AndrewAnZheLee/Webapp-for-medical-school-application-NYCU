@@ -1,0 +1,20 @@
+{
+    "background": "The transition from intensive care unit (ICU) to continued recovery is often far more complex than many realize. While survival rates in ICUs have improved significantly, a growing body of research highlights the substantial and often prolonged challenges faced by patients *after* they are discharged. A lengthy stay in the ICU, often necessitated by severe illness or injury, can leave patients with a constellation of physical impairments, including muscle weakness, fatigue, and reduced functional capacity. However, the repercussions extend beyond the physical realm. Cognitive dysfunction, manifesting as difficulties with memory, attention, and executive function, is remarkably common, impacting a patient’s ability to return to work, school, or even manage daily tasks. Furthermore, the psychological toll of a critical illness – including anxiety, depression, and post-traumatic stress disorder (PTSD) – can be profound and enduring. These post-ICU syndrome symptoms can persist for months, even years, significantly diminishing quality of life and requiring extensive rehabilitation and ongoing support. Healthcare providers are increasingly recognizing the need for comprehensive, multidisciplinary follow-up care to address these multifaceted needs and optimize long-term outcomes for ICU survivors. This necessitates a shift in focus from simply saving lives to ensuring a meaningful recovery and restoration of function.",
+    "question": "Considering the significant physical, cognitive, and psychological challenges faced by patients post-ICU, and the increasing recognition of 'Post-ICU Syndrome,' how do you believe healthcare systems should prioritize resource allocation between acute critical care and long-term rehabilitation and support services? What ethical considerations arise when making these decisions, particularly regarding patient autonomy and quality of life?",
+    "vocabulary": [
+        {
+            "word": "impairment",
+            "translation": "損害，功能障礙"
+        },
+        {
+            "word": "constellation",
+            "translation": "（症狀的）組合，群集"
+        },
+        {
+            "word": "multidisciplinary",
+            "translation": "跨學科的，多學科的"
+        }
+    ],
+    "title": "For Many Patients Leaving the I.C.U., the Struggle Has Only Just Begun",
+    "link": "https://www.nytimes.com/2026/04/04/health/post-icu-syndrome.html"
+}

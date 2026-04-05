@@ -1,0 +1,20 @@
+{
+    "background": "Dr. Judith L. Rapoport, a leading figure in the field of psychiatry and a pioneer in understanding Obsessive-Compulsive Disorder (OCD), passed away at the age of 92. Her career spanned decades dedicated to researching and treating mental illness, particularly focusing on the neurological and genetic underpinnings of OCD. She is best known for her 1989 book, “The Boy Who Couldn’t Stop Washing,” a compelling case study based on her groundbreaking research with a young boy suffering from severe OCD. This book was instrumental in bringing OCD out of the shadows and into public awareness, challenging prevailing misconceptions and fostering empathy for those affected. Prior to her work, OCD was often misunderstood and stigmatized. Dr. Rapoport’s research demonstrated that OCD wasn’t simply a matter of willpower or character flaws, but a biologically-based disorder with identifiable neurological correlates. Her work paved the way for more effective treatments, including behavioral therapies and pharmacological interventions. She consistently advocated for increased funding for mental health research and improved access to care for individuals with OCD and other psychiatric conditions. Her legacy extends beyond her research; she mentored numerous students and colleagues, inspiring a new generation of mental health professionals.",
+    "question": "Dr. Rapoport’s work significantly reduced the stigma surrounding OCD by demonstrating its biological basis. Considering the increasing understanding of the genetic and neurological factors contributing to various mental illnesses, how do you believe this knowledge should influence the ethical considerations surrounding patient privacy, potential for genetic discrimination, and the development of predictive testing for mental health conditions?",
+    "vocabulary": [
+        {
+            "word": "Obsessive-Compulsive Disorder (OCD)",
+            "translation": "強迫症"
+        },
+        {
+            "word": "Neurological",
+            "translation": "神經學的"
+        },
+        {
+            "word": "Pharmacological",
+            "translation": "藥理學的"
+        }
+    ],
+    "title": "Judith L. Rapoport, Pioneer in Understanding O.C.D., Dies at 92",
+    "link": "https://www.nytimes.com/2026/03/28/science/judith-rapoport-dead.html"
+}
